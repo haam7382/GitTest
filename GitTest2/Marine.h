@@ -8,4 +8,5 @@ public :
 	Marine();
 	void attack();
 	void doPowerStatus();
+	void message();
 };
